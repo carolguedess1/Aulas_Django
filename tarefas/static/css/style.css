@@ -23,3 +23,65 @@ body{
     font-size: 1.5em !important;
     letter-spacing: 2px !important;
 }
+
+.list-div{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    text-align: center !important;
+}
+
+.add-div{
+    background-color: rgb(50, 121, 253) !important;
+    color: white !important;
+    border-radius: 5px !important;
+    padding: 0.5em !important;
+}
+
+#add-button{
+    text-decoration: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.barra{
+    margin-top: 1em !important;
+}
+
+.input-group-btn{
+    border: 1px solid rgba(0, 0, 0, 0.206) !important;
+    border-radius: 5px !important;
+}
+
+.item{
+    border-bottom: 1px dotted black !important;
+    height: 3em !important;
+    font-size: 1.5em !important;
+    margin-top: 1em !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
+.icones{
+    text-align: end !important;
+}
+
+.fa.fa-edit{
+    color: green !important;
+}
+
+.fa.fa-trash{
+    color: red !important;
+}
+
+.link{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+footer{
+    background-color: #333 !important;
+    border-top: 2px solid black !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 0.8em !important;
+}
